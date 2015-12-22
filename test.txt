@@ -8,6 +8,7 @@ add in branch2 to test diff in different branche.
 add abcdef.
 add cdef.
 add in linux.
+add in bug.
 add imamsdasd
 add again in linux.
 add in windows.
@@ -15,7 +16,7 @@ change in branches.
 hello again.
 hahahhahahhahahah???
 add in master to create a conflict.
-add in cvte to test diff.
+00000
 11111
 in branch dev ,i say hello.
 in branch dev ,i say good morning.
